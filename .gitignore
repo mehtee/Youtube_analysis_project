@@ -1,0 +1,9 @@
+__pycache__
+*.pyc
+*.log
+*.pot
+*.DS_Store
+env/
+production_settings.py
+
+.vscode/
