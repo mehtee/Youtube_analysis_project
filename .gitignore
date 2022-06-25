@@ -7,3 +7,4 @@ env/
 production_settings.py
 
 .vscode/
+*.csv
